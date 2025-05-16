@@ -3,6 +3,10 @@
 
 ---
 
+![DynamiTree Workflow](DynamiTree.png)
+
+---
+
 ## 📁 Project Structure
 
 ```
