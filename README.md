@@ -6,13 +6,13 @@
 ## 📁 Project Structure
 
 ```
+├── demo.py                 # Main orchestration script
+├── requirements.txt
 DynamiTree/
 ├── utils.py                # Core B+ Tree logic, insert/retrieve/generate
 ├── answer_prompt.py        # Prompt for answering questions
 ├── summary_prompt.py       # Prompt for summarization
-DynamiTree-main/
-├── demo.py                 # Main orchestration script
-├── requirements.txt
+
 ```
 
 ---
@@ -44,7 +44,7 @@ pip install -r requirements.txt
 Add your OpenAI or Together AI API keys directly to `utils.py` by setting:
 
 ```python
-os.environ["OPENAI_API_KEY"] = "sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+os.environ["OPENAI_API_KEY"] = "your_openai_api_key"
 os.environ["TOGETHER_API_KEY"] = "your_together_api_key"
 os.environ["TOGETHER_BASE_URL"] = "https://api.together.xyz/v1"
 ```
