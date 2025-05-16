@@ -73,4 +73,5 @@ query_tree_and_answer("Query")
 
 ## License
 
-MIT License © 2025 [Charvi Bannur](https://github.com/charvibannur)
+MIT License © 2025. See the LICENSE file in the repository for full details.
+
