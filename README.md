@@ -13,7 +13,6 @@ DynamiTree/
 ├── evaluator.py            # QA evaluation metrics
 DynamiTree-main/
 ├── demo.py                 # Main orchestration script
-├── config.env              # Your API keys (not committed)
 ├── requirements.txt
 ```
 
