@@ -10,7 +10,6 @@ DynamiTree/
 ├── utils.py                # Core B+ Tree logic, insert/retrieve/generate
 ├── answer_prompt.py        # Prompt for answering questions
 ├── summary_prompt.py       # Prompt for summarization
-├── evaluator.py            # QA evaluation metrics
 DynamiTree-main/
 ├── demo.py                 # Main orchestration script
 ├── requirements.txt
